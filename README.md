@@ -8,4 +8,4 @@ A copy of Flappy Bird
 - Live scoreboard at the top-right of the viewport.
 
 ## Issues:
-<a href="">Read the issues.</a>
+<a href="https://github.com/ShubhamKushwah/bamboo/issues/">Read the issues.</a>
